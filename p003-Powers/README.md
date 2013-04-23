@@ -7,8 +7,6 @@ e.g.,
 
 base: 2  
 number of powers: 5
-
-[output]  
 1  
 2  
 4  
