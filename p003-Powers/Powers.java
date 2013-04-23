@@ -11,17 +11,19 @@ public class Powers {
 	 */
 	public static void main(String[] args) {
 		
-		// init our Scanner
+		// initializations
 		Scanner sc = new Scanner(System.in);
-		
-		int base; 	// our base
-		int numPowers;	// the number of powers of the base to print
+		int base; 
+		int numPowers;	
 		
 		// get base and numPowers from user
 		System.out.print("Enter the base: ");
 		base = sc.nextInt();
 		System.out.print("Enter the number of powers: ");
 		numPowers = sc.nextInt();
+		
+		// close our scanner
+		sc.close();
 		
 		// print the powers
 		double val;
