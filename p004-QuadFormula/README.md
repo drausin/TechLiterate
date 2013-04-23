@@ -3,7 +3,7 @@ Quadratric Formula
 
 The user enters the three coefficients of a quadratic equation, and the program uses the quadratic formula to calculate the root(s) of the equation.
 
-### example ###  
+### example ###
 The quadratic formula finds the root(s)  
 where f(x) = 0 of the quadratic equation  
 f(x) = ax^2 + bx + c  
