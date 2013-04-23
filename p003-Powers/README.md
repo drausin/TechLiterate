@@ -5,14 +5,14 @@ The user enters a base and the number of powers to calculate. The program then p
 
 e.g.,
 
-base: 2
+base: 2  
 number of powers: 5
 
-[output]
-1
-2
-4
-8
-16
-32
+[output]  
+1  
+2  
+4  
+8  
+16  
+32  
 
