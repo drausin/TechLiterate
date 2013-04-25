@@ -23,7 +23,7 @@ Enter the coefficients of your equation
 a: 2  
 b: 3  
 c: 4  
-Two imaginary roots: -0.75 +/- i4.795831523312719
+Two imaginary roots: -0.75 +/- i1.1989578808281798
 
 ### example ###
 The quadratic formula finds the root(s)  
