@@ -35,6 +35,7 @@ public class QuadFormula {
 		b = sc.nextDouble();
 		System.out.print("c: ");
 		c = sc.nextDouble();
+		sc.close();
 		
 		// calculate the discriminant, b^2 - 4ac
 		double discrim;
