@@ -32,9 +32,7 @@ public class Powers {
 			// calculate current power value
 			val = Math.pow(base, p);
 			
-			System.out.println(	Integer.toString(base) + "^" + 
-							   	Integer.toString(p) + " = " + 
-							   	Double.toString(val)	);
+			System.out.println(	base + "^" + p + " = " + val);
 		}
 		
 
