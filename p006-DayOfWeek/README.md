@@ -1,7 +1,7 @@
 Day of the Week
 ---------------
 
-THe program returns the day of the week for a given date.
+The program returns the day of the week for a given date.
 
 ### example ###
 month: 1  
