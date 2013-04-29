@@ -25,11 +25,10 @@ public class NumberGuessing {
 		int target = 1 + gen.nextInt(max);
 		
 		// start guessing loop
-		int numGuesses = 1;
 		int curGuess = 0;
 		System.out.println("Guess a number between 1 and " + max);
 		
-		for ( ; curGuess != target; numGuesses++){
+		for (int numGuesses = 1 ; curGuess != target; numGuesses++){
 			
 			// get user's next guess
 			System.out.print("next guess: ");
@@ -47,7 +46,7 @@ public class NumberGuessing {
 		}
 
 		// close the scanner
-		sc.close()
+		sc.close();
 
 	}
 
