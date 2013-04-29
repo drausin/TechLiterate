@@ -14,16 +14,15 @@ public class NumberGuessing {
 	 */
 	public static void main(String[] args) {
 		
-		Scanner sc = new Scanner(System.in);
-		
 		// get maximum number for program to guess
+		Scanner sc = new Scanner(System.in);
 		int max;
 		System.out.print("enter the maximum number: ");
 		max = sc.nextInt();
 		
 		// generate target number
 		Random gen = new Random();
-		int target = 1 + gen.nextInt(max-1);
+		int target = 1 + gen.nextInt(max);
 		
 		// start guessing loop
 		int numGuesses = 1;
@@ -46,6 +45,9 @@ public class NumberGuessing {
 			}
 			
 		}
+
+		// close the scanner
+		sc.close()
 
 	}
 
