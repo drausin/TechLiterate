@@ -1,7 +1,7 @@
 Seive of Eratosthenes
 ---------------------
 
-Write a program that prints all the prime numbers less than a given ceiling N using the seive of Eratosthenes.
+Write a program that prints all the prime numbers less than a given ceiling N using the sieve of Eratosthenes.
 
 ### example ###
 enter the prime number ceiling: 25  

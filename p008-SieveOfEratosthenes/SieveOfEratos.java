@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class SeiveOfEratos {
+public class SieveOfEratos {
 
 	/**
 	 * Print all the prime numbers less than a given number N using the seive of 
