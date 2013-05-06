@@ -2,5 +2,5 @@ Never odd or even
 This is probably not a palindrome.
 Doc Note: I dissent. A fast never prevents a fatness. I diet on cod.
 Sums are not set as a test on Erasmus
-Again, a palindome, this is not!
+Again, a palindrome, this is not!
 Madam, in Eden I'm Adam
